@@ -1,1 +1,1 @@
-First Javascript task !
+ Javascript tasks 1, 2, 3
